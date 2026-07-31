@@ -42,13 +42,11 @@ Copy exact phrases from job descriptions - not paraphrased, not synonyms, the ex
 Structure experience sections to match the job posting's categories and requirements.
 
 ## Quick Start
-
 ```bash
-# Clone the repository
-git clone https://github.com/suchet-kapoor/resume-tailoring-agent.git
 
-# Follow the setup instructions in docs/user-guide.md
+git clone https://github.com/suchet-kapoor/resume-tailoring-agent.git
 ```
+
 
 ## Documentation
 
